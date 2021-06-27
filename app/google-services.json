@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "661323421263",
+    "project_id": "location-finder-f1212",
+    "storage_bucket": "location-finder-f1212.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661323421263:android:d43fcbd4b866e7612abc3a",
+        "android_client_info": {
+          "package_name": "com.srikantprusty.locationfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661323421263-3nj1a86lq51kopk29ticis17l7sqq9nd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.srikantprusty.locationfinder",
+            "certificate_hash": "f40c60fd1fa0aa50cd5cb890998ad19359a245d3"
+          }
+        },
+        {
+          "client_id": "661323421263-etvet3dmvqahahhpp6mor75n5j3ed730.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJaIFTKszExAnp80v4s0m-FCWdbz4y6sY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661323421263-etvet3dmvqahahhpp6mor75n5j3ed730.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
